@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-✨ DK Verse™ — Data × Knowledge | AI × Systems | Learning in Public ✨
+✨Data × Knowledge | AI | DS | Systems | Learning in Public ✨
 </h3>
 
 ---
