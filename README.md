@@ -82,23 +82,10 @@
   <a href="mailto:barulerajnandini108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
-  ## 🧠 LeetCode Dashboard
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajnandini7b?theme=dark&font=Baloo&ext=heatmap" width="48%" />
-  <img src="https://leetcode-stats-six.vercel.app/api?username=rajnandini7b&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/rajnandini7b/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
-
 
 ---
 
-## 📅 Daily Coding Tracker
+## 📅 Daily 🧠 LeetCode Coding Tracker
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rajnandini7b?theme=dark&font=Baloo&ext=heatmap" width="48%" />
