@@ -98,23 +98,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/barulerajnandini-lang/barulerajnandini-lang/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-✨🌸 Thanks for visiting my profile 🌸✨  
-<i>Let’s innovate, learn, and build together!</i>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b6b2e,50:3a3a3a,100:1a1a1a&height=120&section=footer"/>
-</p>
 ## 📅 Daily Coding Tracker
 
 <p align="center">
@@ -128,3 +111,12 @@
   </a>
 </p>
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b6b2e,50:3a3a3a,100:1a1a1a&height=120&section=footer"/>
+</p>
+
+<p align="center">
+✨🌸 Thanks for visiting my profile 🌸✨  
+<i>Let’s innovate, learn, and build together!</i>
+</p>
