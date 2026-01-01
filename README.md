@@ -82,10 +82,19 @@
   <a href="mailto:barulerajnandini108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/barulerajnandini-lang">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  ## 🧠 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rajnandini7b?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=rajnandini7b&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/rajnandini7b/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 
 ---
 
@@ -106,3 +115,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b6b2e,50:3a3a3a,100:1a1a1a&height=120&section=footer"/>
 </p>
+## 📅 Daily Coding Tracker
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rajnandini7b?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barulerajnandini-lang&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/rajnandini7b/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
