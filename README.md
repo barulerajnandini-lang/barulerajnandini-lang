@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3a3a3a,100:8b6b2e&height=180&section=header&text=Welcome%20to%20Rajnandini%20Barule's%20World%20of%20Innovation!&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3a3a3a,100:8b6b2e&height=180&section=header&text=Welcome%20to%20Rajnandini%20Barule's%20Profile!&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
