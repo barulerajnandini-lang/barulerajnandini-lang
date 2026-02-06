@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-✨ DK Verse™ — Data × Knowledge | AI × Systems | Learning in Public ✨
+      ✨ Data × Knowledge | AI × Systems | Learning in Public ✨
 </h3>
 
 ---
@@ -30,25 +30,22 @@
 </td>
 
 <td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
-
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🔥 Live GitHub Dashboard
+## 🧠 LeetCode Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barulerajnandini-lang&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barulerajnandini-lang&theme=radical&hide_border=true" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/rajnandini7b?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=barulerajnandini-lang&theme=react-dark&hide_border=true" />
@@ -68,7 +65,7 @@
 
 🚀 **AI + DSA Learning Journey**  
 🔹 Real-world projects  
-🔹 Daily GitHub consistency  
+🔹 Daily GitHub & LeetCode consistency  
 🔹 Open-source contributions  
 
 ---
@@ -89,17 +86,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/barulerajnandini-lang/barulerajnandini-lang/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
 ✨🌸 Thanks for visiting my profile 🌸✨  
-<i>Let’s innovate, learn, and build together!</i>
 </p>
 
 <!-- FOOTER -->
